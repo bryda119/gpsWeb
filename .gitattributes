@@ -1,0 +1,7 @@
+# Forzar todos los archivos de texto a usar LF
+* text=auto eol=lf
+
+# Excepciones para archivos binarios
+*.svg binary
+*.png binary
+*.jpg binary
